@@ -12,5 +12,5 @@ Sigue las siguientes instrucciones:
 * Solo tenemos dos flujos: Hacer una **transferencia** y ver tu **historial**.
 
 Link de descarga APP - Android: 
-https://drive.google.com/file/d/1cRJhiOB3zlhztiZQ3Pb19zJt8P_pASvN/view?usp=sharing
+https://drive.google.com/file/d/1cKJ9DY8bEIG3R9oYkZgEJsT_mxWKkHqH/view?usp=sharing
 
