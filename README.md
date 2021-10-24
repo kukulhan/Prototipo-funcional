@@ -9,7 +9,7 @@ Sigue las siguientes instrucciones:
 * En el caso del contacto omar es el flujo normal.
 * El monto inicial es de $10,000 MXN
 * El boton al inicio, en la parte derecha de la pantalla, es para swichear entre la app digital tradicional (App de botones) y, para el Asistente Virtual (Iknelia)
-* El boton del asistente debes presionarlo ***cada vez*** que quieras conversar.
+* El boton del asistente debes presionarlo ***cada vez*** que quieras conversar (No dejar presionado).
 * Solo tenemos dos flujos: Hacer una **transferencia** y ver tu **historial**.
 
 Link de descarga APP - Android: 
