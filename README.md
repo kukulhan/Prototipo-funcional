@@ -3,6 +3,7 @@ Propotipo funcional en relacion al reto de la **Super App** en el Hackaton BBVA 
 
 Sigue las siguientes instrucciones: 
 * No requieres credenciales de acceso en el Login.
+* Debes darle permisos al uso de tu microfono.
 * Puedes intentar con los nombres que quieras, pero los únicos contactos ambientados para hacer la transferencia son: **saul** y **omar**.
 * En el caso del contacto **saul**, tiene asociadas dos cuentas, en donde podras elegir la opcion que tu quieras.
 * En el caso del contacto omar es el flujo normal.
