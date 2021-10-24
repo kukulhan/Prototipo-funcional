@@ -1,5 +1,5 @@
 # Prototipo Funcional
-Propotipo funcional en relacion al reto de la Super App en el Hackaton BBVA 2021
+Propotipo funcional en relacion al reto de la **Super App** en el Hackaton BBVA 2021
 
 Sigue las siguientes instrucciones: 
 * No requieres credenciales de acceso en el Login
